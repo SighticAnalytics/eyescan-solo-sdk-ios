@@ -38,7 +38,7 @@ There is a [Quickstart App](https://github.com/SighticAnalytics/iris-integrate-q
 
 ## Support
 
-Please get in touch with [Sightic Analytics](https://www.sighticanalytics.com/contact) for support.
+Please get in touch with [Sightic Analytics](https://www.sightic.com/iris-integrate/) for support.
 
 ## Privacy Policy
 
