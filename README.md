@@ -6,7 +6,7 @@ The IRIS integrate iOS framework predicts if a person may be impaired due to sub
 
 Documentation is [available here](https://sighticanalytics.github.io/iris-integrate-ios/documentation/irisintegrate/).
 
-## Adding IRIS integrate as a Dependency
+## Adding IRIS integrate to your project
 
 ### Xcode Project
 To use IRIS integrate in an Xcode project, follow [this guide](https://developer.apple.com/documentation/xcode/adding-package-dependencies-to-your-app) in the Xcode documentation.
@@ -34,11 +34,15 @@ And include `IRISintegrate` as a dependency for your executable target:
 
 ## Quickstart App
 
-There is a [Quickstart App](https://github.com/SighticAnalytics/iris-integrate-quickstart-app-ios) sample project available that shows how to integrate the framework in an iOS app.
+The [IRIS integrate Quickstart App](https://github.com/SighticAnalytics/iris-integrate-quickstart-app-ios) is sample project intended to show developers how to integrate the library in an iOS app, and serves as a companion to the [API documentation](https://sighticanalytics.github.io/iris-integrate-ios/documentation/irisintegrate/).
+
+## Android version
+
+The Android version of IRIS integrate is [available here](https://github.com/SighticAnalytics/iris-integrate-android).
 
 ## Support
 
-Please get in touch with [Sightic Analytics](https://www.sighticanalytics.com/contact) for support.
+Please get in touch with [Sightic](https://www.sightic.com/iris-integrate/) for support.
 
 ## Privacy Policy
 
@@ -46,4 +50,4 @@ Refer to our [privacy policy document](https://www.sightic.com/privacy-policy) f
 
 ## License
 
-The IRIS integrate iOS framework is commercial software.
+The IRIS integrate iOS Framework is commercial software.
