@@ -4,14 +4,14 @@
 import PackageDescription
 
 let package = Package(
-    name: "IRISintegrate",
+    name: "EyeScanSoloSDK",
     platforms: [
         .iOS(.v14)
     ],
     products: [
-        .library(name: "IRISintegrate", targets: ["IRISintegrate"]),
+        .library(name: "EyeScanSoloSDK", targets: ["EyeScanSoloSDK"]),
     ],
     targets: [
-        .binaryTarget(name: "IRISintegrate", url: "https://github.com/SighticAnalytics/iris-integrate-ios/releases/download/3.1.0/IRISintegrate.xcframework.zip", checksum: "aa662216fda48f571bea53c559560bdb329dd69ef6f6a7232233d6e0dbed68e4"),
+        .binaryTarget(name: "EyeScanSoloSDK", url: "https://github.com/SighticAnalytics/eyescan-solo-sdk-ios/releases/download/3.2.0/EyeScanSoloSDK.xcframework.zip", checksum: "5d4589b815cc6e811428002f64e41878e9f1954e2b25461f938c0d3eed0a45eb"),
     ]
 )
