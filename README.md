@@ -13,14 +13,14 @@ Documentation is [available here](https://sighticanalytics.github.io/eyescan-sol
 To use EyeScan Solo SDK in an Xcode project, follow [this guide](https://developer.apple.com/documentation/xcode/adding-package-dependencies-to-your-app) in the Xcode documentation.
 
 - Enter `https://github.com/SighticAnalytics/eyescan-solo-sdk-ios` as Package URL.
-- As Dependency Rule, we recommend using "Up to Next Major Version" with the value `3.2.0`.
+- As Dependency Rule, we recommend using "Up to Next Major Version" with the value `3.3.0`.
 
 ### SwiftPM Project
 
 To use EyeScan Solo SDK in a Swift Package Manager project, add the following line to the dependencies in your `Package.swift` file:
 
 ```swift
-.package(url: "https://github.com/SighticAnalytics/eyescan-solo-sdk-ios", from: "3.2.0"),
+.package(url: "https://github.com/SighticAnalytics/eyescan-solo-sdk-ios", from: "3.3.0"),
 ```
 
 And include `EyeScanSoloSDK` as a dependency for your executable target:
